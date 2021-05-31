@@ -1,1 +1,1 @@
-# Codility_Exercises
+# Codility_Lessons
